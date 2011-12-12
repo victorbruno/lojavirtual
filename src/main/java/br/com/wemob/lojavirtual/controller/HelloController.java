@@ -8,7 +8,7 @@ public class HelloController {
 	
 	@Get("/hello")
 	public void hello(){
-		
+		System.out.println("So pra testar msm");
 	}
 	
 
